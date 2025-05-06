@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Riyaz</h1>
-<h3 align="center">Data engineer who is passionate about frontend developer and AI/Data enthusiast</h3>
+<h3 align="center">Data engineer who is passionate about frontend development and AI/Data enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaz6121" alt="riyaz6121" /></a> </p>
 
