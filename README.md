@@ -32,6 +32,13 @@ Data Analyst with 2+ years of experience and strong foundations in Machine Learn
 ### CRM
 - Monday.com, HubSpot
 
+## Navigating My GitHub 📂
+
+Here's how my repositories are organized:
+
+- Each of my repositories are for different projects that I was working for over time.
+
+
 ## Professional Experience
 
 ### Quantium (Feb 2023 – Mar 2025)
