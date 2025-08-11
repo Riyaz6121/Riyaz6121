@@ -27,7 +27,7 @@ Data Analyst with 2+ years of experience and strong foundations in Machine Learn
 - Unix shell, Perl, C, Maple
 
 ### Web Development
-- HTML5, CSS, WordPress, Oxygen Builder, Elementor
+- HTML5, CSS, Javascript, MongoDB, React, Node.js, Figma, WordPress, Oxygen Builder, Elementor
 
 ### CRM
 - Monday.com, HubSpot
