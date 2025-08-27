@@ -57,7 +57,7 @@ Here's how my repositories are organized:
 
 ### Imbuity (Dec 2021 – Dec 2022)
 
-#### Digital Marketing Associate (Mar 2022 – Dec 2022)
+#### Digital Marketing Analyst (Mar 2022 – Dec 2022)
 - Performed data entry and cleaning, pivot table analysis, and conducted A/B testing on ad performance data from Meta Ads Manager
 - Developed integrated website and social media content to drive brand awareness and strengthen client market presence in competitive landscapes. This includes clients from cyber-security tech, education, construction, law, and charity organizations
 - Managed client and stakeholder expectations by implementing feedback on content strategies and marketing campaigns
