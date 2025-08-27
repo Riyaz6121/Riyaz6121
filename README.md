@@ -58,10 +58,12 @@ Here's how my repositories are organized:
 ### Imbuity (Dec 2021 – Dec 2022)
 
 #### Digital Marketing Associate (Mar 2022 – Dec 2022)
-- Developed Google slides presentation for marketing reports for clients
-- Performed data entry, cleaning and pivot table analysis using Excel
-- Produced website content for clients by leveraging external sources
-- Posted content on social media to boost client's presence and create brand awareness
+- Performed data entry and cleaning, pivot table analysis, and conducted A/B testing on ad performance data from Meta Ads Manager
+- Developed integrated website and social media content to drive brand awareness and strengthen client market presence in competitive landscapes. This includes clients from cyber-security tech, education, construction, law, and charity organizations
+- Managed client and stakeholder expectations by implementing feedback on content strategies and marketing campaigns
+- Created and updated reporting decks for weekly business progress meetings
+- Performed Search Engine Optimization tasks by creating backlinks to client’s website, among other industry frameworks to boost ranking and appearance in Google
+- Website and social media content development to boost presence and public outlook
 
 #### Digital Marketing Intern (Dec 2021 – Feb 2022)
 - Analyzed ad performance data to calculate key business statistics using Excel
@@ -75,14 +77,9 @@ Here's how my repositories are organized:
 
 ## Education
 
-### University of Queensland
-- **Master of Software Engineering** (2025 - Expected 2026)
-- Studies commence term 2, 2025
-
 ### UNSW Sydney
 - **Bachelor of Data Science and Decisions (Computational Data Science)** (2019 – 2022)
 - Grade: Distinction
-- WAM: 76.591
 
 ## Notable Awards
 - UNSW Triple-A Scholarship Award (Dec 2018)
