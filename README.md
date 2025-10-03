@@ -43,7 +43,7 @@ Here's how my repositories are organized:
 
 ### Quantium (Feb 2023 – Mar 2025)
 
-#### Data Analyst (Mar 2024 – Mar 2025)
+#### Data Analyst/Engineer (Mar 2024 – Mar 2025)
 - Added new features, issued bug fixes to data pipelines in Python and SQL and conducted validation for consistency to support Woolworths NZ with their buying decisions from suppliers
 - Developed and enhanced existing tool to modify workflows and data granularity viewed by end users in Google spreadsheet reporting, resolving data discrepancies to improve trust and confidence in the product
 - Liaised with and implemented stakeholder feedback to improve product satisfaction
