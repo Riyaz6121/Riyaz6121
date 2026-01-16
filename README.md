@@ -8,36 +8,18 @@
 
 Data Analyst with 2+ years of experience and strong foundations in Machine Learning and software engineering. Proficient in Python, SQL, GCP, and web technologies for developing data pipelines, fixing bugs, and enhancing tools. Seeking AI and software engineering opportunities to build scalable, end-to-end solutions for real-world problems.
 
-## Technical Skills
+## Education
 
-### Analytics
-- **Languages & Libraries**: Python, Spark, Gurobi, R, SQL, SAS BASE, Pandas, Scikit-learn
-- **Tools**: Machine learning algorithms, Microsoft Excel (with macro development), Google Spreadsheet (with app script development), DBT pipelines
+- **Bachelor of Computer Science, UNSW Sydney** (2019 – 2022)
+- Grade: Distinction
 
-### Cloud
-- GCP (BigQuery), Snowflake
+- **Metana Full Stack Software Engineering Bootcamp** (2019 – 2022)
+- Comprehensive project-based curriculum covering JavaScript, React, Node.js, SQL
+HTML/CSS, and modern web development frameworks (including MERN stack) to
+Produce Full Stack software solutions
 
-### Project Management
-- Git/Github, JIRA, Confluence
-
-### Visualization
-- Tableau
-
-### Other Programming
-- Unix shell, Perl, C, Maple
-
-### Web Development
-- HTML5, CSS, Javascript, MongoDB, React, Node.js, Figma, WordPress, Oxygen Builder, Elementor
-
-### CRM
-- Monday.com, HubSpot
-
-## Navigating My GitHub 📂
-
-Here's how my repositories are organized:
-
-- Each of my repositories are for different projects that I was working for over time.
-
+- **Bachelor of Data Science and Decisions (Computational Data Science), UNSW Sydney** (2019 – 2022)
+- Grade: Distinction
 
 ## Professional Experience
 
@@ -75,18 +57,6 @@ Here's how my repositories are organized:
 ### Academic Tutor – Will'n'Skill Academy (Sep 2020 - Oct 2020, Contract)
 - Tutored and developed students to take the selective school examination on a holiday course
 
-## Education
-
-### UNSW Sydney
-- **Bachelor of Data Science and Decisions (Computational Data Science)** (2019 – 2022)
-- Grade: Distinction
-
-## Notable Awards
-- UNSW Triple-A Scholarship Award (Dec 2018)
-- Western Sydney University Academy Access Award (Dec 2017)
-- 1st Place Mathematics Year 12 within High School (Dec 2018)
-- 1st Place Mathematics Extension 1 Year 12 within High School (Dec 2018)
-
 ## Projects
 
 ### Optimization of Battery Algorithm
@@ -100,30 +70,39 @@ Here's how my repositories are organized:
 - Optimized parameters for LinearSVC() model for the text-classification task
 - Suggested optimal parameters for the vectorizer class that significantly reduced complexity and benchmarking time, while simultaneously improving the accuracy of LinearSVC()
 
-## Extra-Curricular Activities
+## Technical Skills
 
-### Junior Research Assistant – URBANAI, VIP ChallENG Program – UNSW 
-*Feb 2021 – Apr 2021*
-- Identified and presented findings on cost and time effective online scraper tool solutions to minimize effort exerted by research team in populating construction tools database
-- Web scraping Bunnings Warehouse website through a tool called WebHarvy for developing construction materials database
-- Liaised with the Customer Support team of WebHarvy during roadblocks
+### Analytics
+- **Languages & Libraries**: Python, Spark, Gurobi, R, SQL, SAS BASE, Pandas, Scikit-learn
+- **Tools**: Machine learning algorithms, Microsoft Excel (with macro development), Google Spreadsheet (with app script development), DBT pipelines
 
-### Datathon Finalist – DATASOC UNSW sponsored by ATLASSIAN
-*Sep 2020*
-- Worked under 24-hour time constraint, finishing as one of the top 6 teams from 30 teams
-- Used Excel and Python to preprocess data and develop regression models based on HDI and infection rate of a country
+### Cloud
+- GCP (BigQuery), Snowflake
 
-### Project Team Member of Transport for NSW, STEM Leaders Program – UNSW
-*Aug 2019*
-- Collaborated with Transport of NSW in developing a Regression model to predict population changes in response to an introduction of a High-Speed Rail system
-- Collaborated with 4 team members to pitch the regression model
+### Project Management
+- Git/Github, JIRA, Confluence
 
-### UNSW DATASOC Peer Mentor 
-*Feb 2020 – Apr 2020*
-- Aided first year students in transitioning into university, course structure and methodology
-- Provided resources and explanation of course content
+### Visualization
+- Tableau
 
-### Pink Scarf Volunteer – UNSW 
-*Oct 2019*
-- Cooperated with group members to provide customer service for university students in supporting breast cancer research
-- Aided in product stocking, disposal, and stall operations
+### Other Programming
+- Unix shell, Perl, C, Maple
+
+### Web Development
+- HTML5, CSS, Javascript, MongoDB, React, Node.js, Figma, WordPress, Oxygen Builder, Elementor
+
+### CRM
+- Monday.com, HubSpot
+
+## Navigating My GitHub 📂
+
+Here's how my repositories are organized:
+
+- Each of my repositories are for different projects that I was working for over time.
+
+
+## Notable Awards
+- UNSW Triple-A Scholarship Award (Dec 2018)
+- Western Sydney University Academy Access Award (Dec 2017)
+- 1st Place Mathematics Year 12 within High School (Dec 2018)
+- 1st Place Mathematics Extension 1 Year 12 within High School (Dec 2018)
