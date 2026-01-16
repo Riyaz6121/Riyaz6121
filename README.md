@@ -10,15 +10,15 @@ Data Analyst with 2+ years of experience and strong foundations in Machine Learn
 
 ## Education
 
-- **Bachelor of Computer Science, UNSW Sydney** (2019 – 2022)
+**Bachelor of Computer Science, UNSW Sydney** (2019 – 2022)
 - Grade: Distinction
 
-- **Metana Full Stack Software Engineering Bootcamp** (2019 – 2022)
+**Metana Full Stack Software Engineering Bootcamp** (2019 – 2022)
 - Comprehensive project-based curriculum covering JavaScript, React, Node.js, SQL
 HTML/CSS, and modern web development frameworks (including MERN stack) to
 Produce Full Stack software solutions
 
-- **Bachelor of Data Science and Decisions (Computational Data Science), UNSW Sydney** (2019 – 2022)
+**Bachelor of Data Science and Decisions (Computational Data Science), UNSW Sydney** (2019 – 2022)
 - Grade: Distinction
 
 ## Professional Experience
