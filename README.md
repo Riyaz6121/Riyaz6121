@@ -94,12 +94,6 @@ Produce Full Stack software solutions
 ### CRM
 - Monday.com, HubSpot
 
-## Navigating My GitHub 📂
-
-Here's how my repositories are organized:
-
-- Each of my repositories are for different projects that I was working for over time.
-
 
 ## Notable Awards
 - UNSW Triple-A Scholarship Award (Dec 2018)
